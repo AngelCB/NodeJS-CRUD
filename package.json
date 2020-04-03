@@ -1,0 +1,22 @@
+{
+  "name": "arrancar",
+  "version": "1.0.0",
+  "description": "primer package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AngelCB/NodeJS-CRUD.git"
+  },
+  "author": "angel carrizosa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AngelCB/NodeJS-CRUD/issues"
+  },
+  "homepage": "https://github.com/AngelCB/NodeJS-CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
